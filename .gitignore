@@ -1,0 +1,11 @@
+*~
+/CMakeCache.txt
+/CMakeFiles
+/Makefile
+/cmake_install.cmake
+/src/CMakeFiles
+/src/Makefile
+/src/cmake_install.cmake
+/src/libreplaygain.a
+/src/libreplaygain.so
+/src/libreplaygain.so.*
